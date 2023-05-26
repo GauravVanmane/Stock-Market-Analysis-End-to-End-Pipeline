@@ -24,3 +24,5 @@ You can use any dataset, we are mainly interested in operation side of Data Engi
 
 Here is the dataset used in the project- https://github.com/GauravVanmane/Stock-Market-Analysis-End-to-End-Pipeline/blob/main/indexProcessed.csv
 
+## Data Analysis
+Once the pipeline has been started to upload continuous data to our AWS s3 bucket then we can make use of the AWS Crawler and AWS Glue to make a lookup table for that incoming data. Once the lookup table has been made then we can use SQL commands to analyze our data. Background data is being uploaded to the S3 bucket continuously and getting added to the lookup AWS Athena table. 
