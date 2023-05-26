@@ -33,4 +33,4 @@ Once the pipeline has been started to upload continuous data to our AWS s3 bucke
 - What is AWS S3 bucket?
 - How to make real-time data pipeline using AWS?
 - What is AWS Glue Crawler and Glue Catalog?
-- Data analysis Using SQL commands.
+- Data analysis Using SQL commands on Amazon Athena.
