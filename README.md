@@ -26,3 +26,11 @@ Here is the dataset used in the project- https://github.com/GauravVanmane/Stock-
 
 ## Data Analysis
 Once the pipeline has been started to upload continuous data to our AWS s3 bucket then we can make use of the AWS Crawler and AWS Glue to make a lookup table for that incoming data. Once the lookup table has been made then we can use SQL commands to analyze our data. Background data is being uploaded to the S3 bucket continuously and getting added to the lookup AWS Athena table. 
+
+## Learning from this project 
+- What is Apache kafka?
+- Architecture of Kafka?
+- What is AWS S3 bucket?
+- How to make real-time data pipeline using AWS?
+- What is AWS Glue Crawler and Glue Catalog?
+- Data analysis Using SQL commands.
